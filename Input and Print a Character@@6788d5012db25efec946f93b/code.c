@@ -5,7 +5,7 @@
 
 int main() {
     char a
-    scanf("%ch",a);
+    scanf("%c",a);
     print("You entered: %ch",a);
     return 0;
 }
