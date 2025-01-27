@@ -4,8 +4,8 @@
 
 
 int main() {
-    char a
+    char a;
     scanf("%c",a);
-    print("You entered: %ch",a);
+    print("You entered: %c",a);
     return 0;
 }
