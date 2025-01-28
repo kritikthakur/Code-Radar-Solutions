@@ -10,7 +10,7 @@ int main()
     scanf("%d",&age);
     printf("Age: %d",age);
     char hobby[100];
-    scanf("%s",&hobby);;
+    scanf("%s",&hobby);
     printf("Hobby: %s",hobby);
     return 0;
 }
