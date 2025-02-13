@@ -17,7 +17,7 @@ int main()
         printf("Thurday");
         break;
         case 5:
-        prinf("Friday");
+        printf("Friday");
         break;
         case 6;
         printf("Saturday");
@@ -26,7 +26,7 @@ int main()
         printf("Sunday");
         break;
         default:
-        print("Invalid");
+        printf("Invalid");
         break;
     }
     return 0;
