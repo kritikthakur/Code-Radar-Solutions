@@ -1,5 +1,5 @@
 #include <stdio.h>
-void main()
+int main()
 {
     int a;
     scanf("%d",&a);
@@ -9,4 +9,5 @@ void main()
     else{
         printf("Not Prime");
     }
+    return 0;
 }
