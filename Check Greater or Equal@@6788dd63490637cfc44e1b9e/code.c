@@ -9,8 +9,8 @@ int main()
     else if (a<b){
         printf("No");
     }
-    else{
-        printf("Equal");
-    }
+    // else{
+    //     printf("Equal");
+    // }
     return 0;
 }
