@@ -13,6 +13,9 @@ int main()
                 break;
             }
         }
+        if (i==a){
+            printf("Prime");
+        }
     }
     return 0;
 }
