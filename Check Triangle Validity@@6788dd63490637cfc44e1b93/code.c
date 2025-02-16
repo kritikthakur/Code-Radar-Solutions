@@ -11,3 +11,4 @@ int main()
     }
     return 0;
 }
+// triangle is valid only if sum of two of  its vertices is greater than third.
